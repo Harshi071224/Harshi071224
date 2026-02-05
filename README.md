@@ -5,9 +5,21 @@
 
 ## 👩‍💻 About Me
 - 🎓 Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning  
-- 💡 Enthusiastic about learning new technologies and developing practical technical skills  
-- 🤖 Interested in building intelligent and innovative solutions using AI-driven approaches  
-- 🚀 Focused on continuous improvement, problem-solving, and hands-on project development  
+- 🌱 Passionate about learning new skills and emerging technologies  
+- 🤖 Interested in building intelligent systems and innovative solutions  
+- 🚀 Focused on continuous improvement, problem-solving, and hands-on development  
+
+---
+
+## 🌐 Socials
+<p>
+  <a href="https://www.linkedin.com/in/harshithamc003" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-6f42c1?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:harshithamc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-9f7aea?style=flat&logo=gmail&logoColor=white">
+  </a>
+</p>
 
 ---
 
@@ -25,14 +37,13 @@
 
 ## 📌 Projects
 - 🎭 **Real-Time Facial Emotion Recognition**  
-  Built a system that detects and analyzes facial emotions using live video input.
+  A computer vision-based system that detects and analyzes facial emotions using live video input.
 
 - 🧠 **Immersive VR-Based Learning Model**  
-  Designed a virtual classroom environment to improve student engagement through immersive technology.
+  A virtual classroom environment designed to improve student engagement through immersive technology.
 
 ---
 
 ## 📊 GitHub Activity
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshi071224&show_icons=true&theme=tokyonight" />
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshi071224&show_icons=true&theme=tokyonight)
