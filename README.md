@@ -25,22 +25,19 @@
 ---
 
 ## 🛠 Skills
-- HTML  
-- CSS  
-- JavaScript  
-- Python  
-- Java  
-- MySQL  
+- **Programming:** Python, Java  
+- **Web:** HTML, CSS, JavaScript  
+- **Libraries & Tools:** OpenCV, DeepFace  
 
 ---
 
 ## 📌 Projects
 - **Facial Emotion Recognition**  
-  Real-time facial emotion detection using OpenCV and DeepFace.  
+  Real-time facial emotion detection using OpenCV and DeepFace, focusing on computer vision and deep learning concepts.  
   🔗 https://github.com/Harshi071224/facial-emotion-recognition
 
 - **Immersive VR-Based Learning Model**  
-  A virtual classroom environment designed to improve student engagement through immersive technology.
+  A virtual classroom environment designed to enhance student engagement through immersive learning technology.
 
 ---
 
