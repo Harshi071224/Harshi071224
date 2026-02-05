@@ -12,8 +12,15 @@
 ---
 
 ## 🌐 Socials
-- 📧 Email: harshithamc@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/harshithamc003  
+<p>
+  <a href="https://www.linkedin.com/in/harshitha-mc-07b846379" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-6f42c1?style=flat&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:harshithamc@gmail.com">
+    <img src="https://img.shields.io/badge/Email-9f7aea?style=flat&logo=gmail&logoColor=white">
+  </a>
+</p>
+
 
 ---
 
