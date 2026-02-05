@@ -4,10 +4,10 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Undergraduate student specializing in Artificial Intelligence and Machine Learning  
-- 🌱 Passionate about learning new skills and emerging technologies  
-- 🤖 Interested in intelligent systems and real-world AI applications  
-- 🚀 Focused on continuous growth and hands-on project development  
+- 🎓 Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning  
+- 💡 Enthusiastic about learning new technologies and developing practical technical skills  
+- 🤖 Interested in building intelligent and innovative solutions using AI-driven approaches  
+- 🚀 Focused on continuous improvement, problem-solving, and hands-on project development  
 
 ---
 
