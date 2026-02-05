@@ -35,8 +35,9 @@
 ---
 
 ## 📌 Projects
-- **Real-Time Facial Emotion Recognition**  
-  A computer vision-based system that detects and analyzes facial emotions using live video input.
+- **Facial Emotion Recognition**  
+  Real-time facial emotion detection using OpenCV and DeepFace.  
+  🔗 https://github.com/Harshi071224/facial-emotion-recognition
 
 - **Immersive VR-Based Learning Model**  
   A virtual classroom environment designed to improve student engagement through immersive technology.
